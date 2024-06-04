@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-size: 130px;
+}
+
+.btn{
+    width: 100px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 0px 50px;
+}
+
+.slide{
+    width: 80%;
+}
