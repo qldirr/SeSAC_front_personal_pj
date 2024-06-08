@@ -15,3 +15,8 @@
 .slide{
     width: 80%;
 }
+
+#carouselExampleIndicators .carousel-item img {
+    height: 500px; /* 원하는 높이로 조정 */
+    object-fit: cover;
+}
